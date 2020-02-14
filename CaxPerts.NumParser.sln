@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29806.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CaxPerts.NumParser", "CaxPerts.NumParser\CaxPerts.NumParser.csproj", "{E43B9216-80AD-4676-8C69-6856F07CBBE3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E43B9216-80AD-4676-8C69-6856F07CBBE3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E43B9216-80AD-4676-8C69-6856F07CBBE3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E43B9216-80AD-4676-8C69-6856F07CBBE3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E43B9216-80AD-4676-8C69-6856F07CBBE3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D00B4D6A-1DFD-46A3-9A6B-BC630C66EA6C}
+	EndGlobalSection
+EndGlobal
